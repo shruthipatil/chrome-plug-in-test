@@ -1,0 +1,50 @@
+{
+	"blocks": [
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "svc-svc-jwt*:smile:\n"
+			}
+		},
+		{
+			"type": "section",
+			"fields": [
+				{
+					"type": "mrkdwn",
+					"text": "*Service Name:*\nAWS"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "*String Type:*\nAWS access key id"
+				},
+			]
+		}
+	],
+	"attachments": [
+		{
+			"fields": [
+				{
+					"type": "mrkdwn",
+					"text": "*DETAILS:*\n infobloxctokey"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "*account name:*\n cyberintel"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "*account ID:*\n 123456789012"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "*username:*\n test"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "*account key ID:*\n AKIA4HUI89KGEI3H0PQUW"
+				}
+			]
+		}
+	]
+}
